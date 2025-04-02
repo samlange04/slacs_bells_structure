@@ -1,0 +1,714 @@
+                       unique_id,      name,    unique_tag,total_free_parameters,is_complete
+23a425256a57d88124c43b074fcde43e,     setup,slacs0008-0004,                   12,       True
+6b86f384182824a3b0d4e50152085c5d, ellipse_5,slacs0008-0004,                    2,       True
+f363fb32b435d342cb150aa2100fd8f7, ellipse_2,slacs0008-0004,                    2,       True
+23b0a894a1c9efb96010abe0aebd6b17, ellipse_3,slacs0008-0004,                    2,       True
+094c50bbbc6c6c3933a848c49eb247d8, ellipse_4,slacs0008-0004,                    2,       True
+2d97d7f5c2c383aecb3366b26b7512d1,   fit_all,slacs0008-0004,                    1,       True
+a9e51ff994b647fdb29fab0df28caba8, ellipse_8,slacs0008-0004,                    2,       True
+f2ebad3dde83728b04874c358dc7a116, ellipse_1,slacs0008-0004,                    2,       True
+fa45e92bf2fa50d1b1cfc4b9f2ac33cd, ellipse_6,slacs0008-0004,                    2,       True
+a0aab162c9ae77590c2e022a4f69c927, ellipse_7,slacs0008-0004,                    2,       True
+af91a55eebb941b08c1db49f657d3a36, ellipse_0,slacs0008-0004,                    2,       True
+5aa96590315a787f578c957037d3f582, ellipse_9,slacs0008-0004,                    2,       True
+72a658e1908eda6f8cc950c7503ec9a7,ellipse_18,slacs1213+6708,                    2,       True
+59cccb8263b7f02e6ef08b89d6985665,ellipse_11,slacs1213+6708,                    2,       True
+b91d252e8d931adff45ff13ea0d70d5a,ellipse_16,slacs1213+6708,                    2,       True
+37717e950bdfebcc5f331834f6016809,ellipse_17,slacs1213+6708,                    2,       True
+08c9173e785a6975a076cf065cddde19,ellipse_10,slacs1213+6708,                    2,       True
+0a843b0b239611544d3c17b7ff2b249a,     setup,slacs1213+6708,                   12,       True
+ec86daebdaefb084dc2e5bbaf70405a6, ellipse_5,slacs1213+6708,                    2,       True
+7137296f33257624cf74ae4780262f3b, ellipse_2,slacs1213+6708,                    2,       True
+5a0e6f53b041f1e9eca00723be43006c, ellipse_3,slacs1213+6708,                    2,       True
+aa57fce277d0dbd9a9f41bf1429f1989, ellipse_4,slacs1213+6708,                    2,       True
+670b1805bf86fd5faaa36a160cfae85f,ellipse_15,slacs1213+6708,                    2,       True
+6a7cffec416b80013fa640489b0e17e2,ellipse_12,slacs1213+6708,                    2,       True
+f88bddd7157c9501f5d2f135956fe741,ellipse_13,slacs1213+6708,                    2,       True
+d004f0d03214e8d65254f7640b5ff870,   fit_all,slacs1213+6708,                    1,       True
+12328c36680d3b73bb1654941a23ccf6,ellipse_14,slacs1213+6708,                    2,       True
+9691d9f23fd33dfb30c5c8bfa90d3485, ellipse_8,slacs1213+6708,                    2,       True
+8871c8ecad1b39c5e39be83dfdc4cfa2, ellipse_1,slacs1213+6708,                    2,       True
+25ec2d2d32a720be553649caa699350c, ellipse_6,slacs1213+6708,                    2,       True
+75362d7a046c5fe0d5a0a04b3ea33550, ellipse_7,slacs1213+6708,                    2,       True
+25961496b151464e6f0a7b27015d2184, ellipse_0,slacs1213+6708,                    2,       True
+f95caafe6274ca1cf0e2b5aafb2cf99a, ellipse_9,slacs1213+6708,                    2,       True
+d443de9d2189586c94fcdc264557f366,ellipse_11,slacs0330-0020,                    2,       True
+5eb7d9b706a182e059ff6f7eacecdd5a,ellipse_10,slacs0330-0020,                    2,       True
+bb22e46f4064873d6d9772d5268322b6,     setup,slacs0330-0020,                   12,       True
+788c4a28f16d80f9920e5071f7896f70, ellipse_5,slacs0330-0020,                    2,       True
+24577055227d34aef04001c607bd6fbf, ellipse_2,slacs0330-0020,                    2,       True
+8286ef2a6aff6df109d6aba515650e1d, ellipse_3,slacs0330-0020,                    2,       True
+41cc1a79164a5058d4071ca8689f81a3, ellipse_4,slacs0330-0020,                    2,       True
+db5b49fd9743d62e8025843e6e969824,   fit_all,slacs0330-0020,                    1,       True
+8dd88153f424d009226cdbb7ddd00f95, ellipse_8,slacs0330-0020,                    2,       True
+f2923ba6176fb98fc56db4f29a2a079c, ellipse_1,slacs0330-0020,                    2,       True
+760901f7edd0d829cd8232f7db7e5634, ellipse_6,slacs0330-0020,                    2,       True
+d9feff198c410ffbbe41f9dae558fdc8, ellipse_7,slacs0330-0020,                    2,       True
+0a6a03904182a56cf0ad140ace6a31c5, ellipse_0,slacs0330-0020,                    2,       True
+3fa50ac914b8de315d778592a90ff3d4, ellipse_9,slacs0330-0020,                    2,       True
+8b14728a4b4f15a7848cd3d9d0e17089,     setup,SDSSJ1201+4743,                   12,       True
+b0326d193b049915574115af9dcd7981, ellipse_2,SDSSJ1201+4743,                    2,       True
+2da1fd2df2185a327047d5aa22b3a4fb, ellipse_3,SDSSJ1201+4743,                    2,       True
+9c45e079db6e8dc76c2619da857a6ca7,   fit_all,SDSSJ1201+4743,                    1,       True
+50a4934f746b23b8b5dedd44737f47c3, ellipse_1,SDSSJ1201+4743,                    2,       True
+5ea4588ebc5bfc673f9b65044bd2fe4e, ellipse_0,SDSSJ1201+4743,                    2,       True
+5f16197c4313d4039041ec71e6677295,     setup,SDSSJ1116+0915,                   12,       True
+d36eba2d1324244bc5f45dd4ccd69d02, ellipse_2,SDSSJ1116+0915,                    2,       True
+47efff11113bc676c3bf138cc5e4c29b, ellipse_3,SDSSJ1116+0915,                    2,       True
+bf61430a6462b3be5136a63c23f64f2f,   fit_all,SDSSJ1116+0915,                    1,       True
+38b8a432343ec4b189190c0e4e907633, ellipse_1,SDSSJ1116+0915,                    2,       True
+4b4f1eee97f8d2b31b41bc29976c9398, ellipse_0,SDSSJ1116+0915,                    2,       True
+b993faf65ebd37ec82f6a660a9074c80,ellipse_10,slacs0157-0056,                    2,       True
+870442fc0bf8a09b078ea0bfe84454d0,     setup,slacs0157-0056,                   12,       True
+a34359b28b05c88371cfd6823e11d188, ellipse_5,slacs0157-0056,                    2,       True
+207ff1f92e4c194193509132ea8330cd, ellipse_2,slacs0157-0056,                    2,       True
+c64d522e4857a1766ca9187f2744b722, ellipse_3,slacs0157-0056,                    2,       True
+e85e2a753f9d907251d09817303bf55e, ellipse_4,slacs0157-0056,                    2,       True
+8a73dcc47e0a326ca031257cbd516f77,   fit_all,slacs0157-0056,                    1,       True
+34fd85a38516700acd3dd45f63a0f929, ellipse_8,slacs0157-0056,                    2,       True
+c873915841bee3e9ac351f5f9f53591a, ellipse_1,slacs0157-0056,                    2,       True
+72d0dd98cb61db61d8b91e0f9ee5acd3, ellipse_6,slacs0157-0056,                    2,       True
+535b9027a12943e3d0c236865e6a82a3, ellipse_7,slacs0157-0056,                    2,       True
+aade63b271a031d71f785887b9affc6c, ellipse_0,slacs0157-0056,                    2,       True
+86ed4e403363a43679fcdd908668fb0d, ellipse_9,slacs0157-0056,                    2,       True
+61541fdc08fd986f5f0e8179c7b79a21,ellipse_18,slacs0956+5100,                    2,       True
+88babdeedae06bcdaba7e3aa096879b6,ellipse_11,slacs0956+5100,                    2,       True
+82d5471c22de4e28e394897efbbd98b0,ellipse_16,slacs0956+5100,                    2,       True
+a555be672d1c467e50d83e6febb36b9d,ellipse_17,slacs0956+5100,                    2,       True
+eca2b5c66068aec96225e1fdc92c8530,ellipse_10,slacs0956+5100,                    2,       True
+ed639f2766394b9c0c8ace122771bc35,     setup,slacs0956+5100,                   12,       True
+97d5dd9692a24bc23f2fce2337f10ae7, ellipse_5,slacs0956+5100,                    2,       True
+9c7d047258975aef41b08149f566bd7b, ellipse_2,slacs0956+5100,                    2,       True
+95d1f64d1540624d60261a6fdbf93e9e, ellipse_3,slacs0956+5100,                    2,       True
+65add3fb22b73129176c140eee3ed1ce, ellipse_4,slacs0956+5100,                    2,       True
+cb947efde995fcda74d3729b8ec59ecb,ellipse_15,slacs0956+5100,                    2,       True
+f9ff7db7b7bf5583b1424641c9efefe1,ellipse_12,slacs0956+5100,                    2,       True
+dcc14bab40dd4a8b5949038cb20f06f4,ellipse_13,slacs0956+5100,                    2,       True
+b15aa70379b18d274001df0971f4e684,   fit_all,slacs0956+5100,                    1,       True
+1646c1888806e6d045b6cd1b1869bc05,ellipse_14,slacs0956+5100,                    2,       True
+00e50d5dc0ee0d996640301d054ff6f1, ellipse_8,slacs0956+5100,                    2,       True
+7afa92c9d1900d8bc8fe1398c0c93a2c, ellipse_1,slacs0956+5100,                    2,       True
+dd96b2b7742ec3e7183bcb845021bc92, ellipse_6,slacs0956+5100,                    2,       True
+29795636e0c1f7a394538e3d3d6f3fe0, ellipse_7,slacs0956+5100,                    2,       True
+fc8a27a78a931138e6b0de701a8c1216, ellipse_0,slacs0956+5100,                    2,       True
+c1e32d6528ce390bbd78d48a28e39ba6, ellipse_9,slacs0956+5100,                    2,       True
+1556ca7030caff3d3feb6b65da70d343,ellipse_18,slacs1627-0053,                    2,       True
+11d70c180f2febcf1e223a78e7be3fe8,ellipse_11,slacs1627-0053,                    2,       True
+24b5e178ae96d3c93af3544e0ec39d02,ellipse_16,slacs1627-0053,                    2,       True
+f7b7fa245eb9e289687440c873670bfa,ellipse_17,slacs1627-0053,                    2,       True
+bb1709da20ca8a3855afbf4a091448b5,ellipse_10,slacs1627-0053,                    2,       True
+0cbac5e3ef9b8d85178e101d7b1201e8,     setup,slacs1627-0053,                   12,       True
+5b1bbe58380c52dc51b58a0a6f2d2f0d, ellipse_5,slacs1627-0053,                    2,       True
+3e600546bcfc7cb0ab7c7c44a75d40d3, ellipse_2,slacs1627-0053,                    2,       True
+63bc2a7acee18ac3f241d012b043b05c, ellipse_3,slacs1627-0053,                    2,       True
+92f70c7bdb971cd2db6ff08558bf3dff, ellipse_4,slacs1627-0053,                    2,       True
+8716ade05b5932ab254ae26379575f41,ellipse_15,slacs1627-0053,                    2,       True
+f8a32000512bec65b68d5c253bea9e7a,ellipse_12,slacs1627-0053,                    2,       True
+8a7c4bd109b5765efc7f4f04c503bcda,ellipse_13,slacs1627-0053,                    2,       True
+f5504f707e3fd98d99d1a415cf11a343,   fit_all,slacs1627-0053,                    1,       True
+7e1f073894970e5141d9d391e02eb39a,ellipse_14,slacs1627-0053,                    2,       True
+4588ce42196d41084c253488a4408353, ellipse_8,slacs1627-0053,                    2,       True
+3623f62737299bed082a669a7c2ae22e, ellipse_1,slacs1627-0053,                    2,       True
+938423482044b099eb9dd50329a3a794, ellipse_6,slacs1627-0053,                    2,       True
+e16777dcf04f004bc29211cfecfa0306, ellipse_7,slacs1627-0053,                    2,       True
+d5909ec4e1bcd7cda36648ac99a5b098, ellipse_0,slacs1627-0053,                    2,       True
+119d857334f1ad0bb7c6ce68512533e3, ellipse_9,slacs1627-0053,                    2,       True
+6151f42f1162131eab909e71278ad7cb,     setup,SDSSJ0201+3228,                   12,       True
+0f51c99f315af416b07221aea5a52f14, ellipse_5,SDSSJ0201+3228,                    2,       True
+09fcc9864fa32f503414fe3e9ddeb615, ellipse_2,SDSSJ0201+3228,                    2,       True
+a9c02ac29a770669d73eb4fe72ef3213, ellipse_3,SDSSJ0201+3228,                    2,       True
+0eb20b1ef0af0cb91e36288e036abefc, ellipse_4,SDSSJ0201+3228,                    2,       True
+fad7f0bf6c591356e3a22b9e509a5049,   fit_all,SDSSJ0201+3228,                    1,       True
+8a94ef79e8edc7b8cc0e9ef61ee4979a, ellipse_1,SDSSJ0201+3228,                    2,       True
+d5025d1cd49240a1b59f1235fc64dd19, ellipse_6,SDSSJ0201+3228,                    2,       True
+31cb2c6011db510934cc80f819a20298, ellipse_7,SDSSJ0201+3228,                    2,       True
+ba9753bfce9abe1d61490a43a591c845, ellipse_0,SDSSJ0201+3228,                    2,       True
+3084c24f4c2b1d27a4f268373164321a,ellipse_18,slacs1525+3327,                    2,       True
+8d24b9a58ea02967e6f3456a67f8a00f,ellipse_11,slacs1525+3327,                    2,       True
+fa3562a4ae80173d3e16507f61cb951c,ellipse_16,slacs1525+3327,                    2,       True
+6c46083a8656b2c4fdda0a86c9afd185,ellipse_17,slacs1525+3327,                    2,       True
+9b77a66500df49321d02f7c0fb6f2862,ellipse_10,slacs1525+3327,                    2,       True
+2cba1d534384aa1f60415f3e23fb2389,     setup,slacs1525+3327,                   12,       True
+f325daca83373312057f91f0179cfec6, ellipse_5,slacs1525+3327,                    2,       True
+a476d29359ab34b5ce3009799a964721, ellipse_2,slacs1525+3327,                    2,       True
+4c790389ad20680e48025b5f481d5342, ellipse_3,slacs1525+3327,                    2,       True
+7946bab998faa7af684e3b59e6a2e390, ellipse_4,slacs1525+3327,                    2,       True
+b63f0d714a171fb383722b0e6d8574e3,ellipse_15,slacs1525+3327,                    2,       True
+b33896cdad29250d2edec2338cb16f9a,ellipse_12,slacs1525+3327,                    2,       True
+b667e3f8daf819da4117ab98965bfa3c,ellipse_13,slacs1525+3327,                    2,       True
+5ced49db2367f2b296c5277382eed91b,   fit_all,slacs1525+3327,                    1,       True
+725d67404f1acff6f4856caa399f3c78,ellipse_14,slacs1525+3327,                    2,       True
+5c06ee57c434e6f8e8237f9394558e12, ellipse_8,slacs1525+3327,                    2,       True
+d725f766fcd6b755244bccad6427830e, ellipse_1,slacs1525+3327,                    2,       True
+9dde0906868968ea789c1fd2a2ec10f2, ellipse_6,slacs1525+3327,                    2,       True
+4f262a75714147613f3ccfe93e63841f, ellipse_7,slacs1525+3327,                    2,       True
+12873dfffb8a120a8055595f6f1a131d, ellipse_0,slacs1525+3327,                    2,       True
+9b3d7ba5c1f37fc1fc8360faa0f5d0ca, ellipse_9,slacs1525+3327,                    2,       True
+29f1afd4c93d9065a0491a5f2e333350,ellipse_11,slacs0903+4116,                    2,       True
+90ec937c23166a0c0ac8c552db32539e,ellipse_10,slacs0903+4116,                    2,       True
+5799e5087537e786e56a1ac7e9511148,     setup,slacs0903+4116,                   12,       True
+d89124915fc2d9d9ee3e423e42878226, ellipse_5,slacs0903+4116,                    2,       True
+8a06a386185338a29522a7fd95db90ca, ellipse_2,slacs0903+4116,                    2,       True
+b0fa83791de2d3bc66c4af9ebbb31741, ellipse_3,slacs0903+4116,                    2,       True
+8d095bd2a41d5db053c7d29cd434adb2, ellipse_4,slacs0903+4116,                    2,       True
+30c1b8cfa760464b4648f52f5231ddcd,   fit_all,slacs0903+4116,                    1,       True
+1167e474854e0ca5b4618a00a56554f6, ellipse_8,slacs0903+4116,                    2,       True
+6516e88cc5298ff6fa9ee53a69fdfe3f, ellipse_1,slacs0903+4116,                    2,       True
+30c09504487a831aee23f2a3ea7c64d8, ellipse_6,slacs0903+4116,                    2,       True
+14a69cf294891fb94397b54fa381d1e4, ellipse_7,slacs0903+4116,                    2,       True
+46ee0ef2341308c67f28154cf362698d, ellipse_0,slacs0903+4116,                    2,       True
+a03a1c92759dabe2c2ebd202828a270d, ellipse_9,slacs0903+4116,                    2,       True
+c73651b8d6c1608cbe3afd0382f4dddd,ellipse_18,slacs1205+4910,                    2,       True
+35f8b6d6379ee338993c0c56a353c764,ellipse_11,slacs1205+4910,                    2,       True
+ab288690b29bd7aa2c58cb50912d5738,ellipse_16,slacs1205+4910,                    2,       True
+9d7d2f59e104a9e595b0d2a976e62b9d,ellipse_17,slacs1205+4910,                    2,       True
+5fdf62ac890d5903d0c2ca69c7abe768,ellipse_10,slacs1205+4910,                    2,       True
+c822196f5c203b751300273262cea6f4,     setup,slacs1205+4910,                   12,       True
+7ef947235ebdacf1fd35ac4aa594d0fe, ellipse_5,slacs1205+4910,                    2,       True
+58614c00c804b691a9e01929d2fb3477, ellipse_2,slacs1205+4910,                    2,       True
+a32bba3d131bedab900ad7d27c625522, ellipse_3,slacs1205+4910,                    2,       True
+4d2e54e076c9b20edfac6047bd23cf6c, ellipse_4,slacs1205+4910,                    2,       True
+d42d23b316577b584477ef59810e733b,ellipse_15,slacs1205+4910,                    2,       True
+2636693c937cb0261491f4dba8cf9810,ellipse_12,slacs1205+4910,                    2,       True
+6dbea9365df684ecf31065d03f8626b9,ellipse_13,slacs1205+4910,                    2,       True
+e2ceb99bc25bca9c45b76d88e4aaf018,   fit_all,slacs1205+4910,                    1,       True
+c4a8f0670dc6c9b6b36ad8a8193a3a9e,ellipse_14,slacs1205+4910,                    2,       True
+f57464b9b66b315af46801f08b21c0bd, ellipse_8,slacs1205+4910,                    2,       True
+d8aefb0ce544b0819a54ac5772c1b72d, ellipse_1,slacs1205+4910,                    2,       True
+4737b007a91551efef68151fbcbb0c50, ellipse_6,slacs1205+4910,                    2,       True
+e91f55bee98741853ea0d7ab577da3c7, ellipse_7,slacs1205+4910,                    2,       True
+4874d92a0cfb1a9555c463d019850984, ellipse_0,slacs1205+4910,                    2,       True
+0407fa51797e30befb5dad73f2b0defd, ellipse_9,slacs1205+4910,                    2,       True
+106648e02621ce340fcbe5b3983044cc,ellipse_18,slacs1630+4520,                    2,       True
+32988da107ffea75d6cad7c9671bc518,ellipse_11,slacs1630+4520,                    2,       True
+9f00faa8874c32ae025fa92b8469b450,ellipse_16,slacs1630+4520,                    2,       True
+6a67e4ed5e669f5d5530b06b3fa4becb,ellipse_17,slacs1630+4520,                    2,       True
+1656c3576305fa575c1f9211dac938d9,ellipse_10,slacs1630+4520,                    2,       True
+e7dfbab75ba7831e9463e8299abbffdc,     setup,slacs1630+4520,                   12,       True
+de976e0567f647d99079cf7f220b382e, ellipse_5,slacs1630+4520,                    2,       True
+f1587b88c1fe475b244e9e759f07aa36, ellipse_2,slacs1630+4520,                    2,       True
+b92f0696fcd069da43cc5a0ca7351df1, ellipse_3,slacs1630+4520,                    2,       True
+f2b5d8cb141cc14c82a642a34bb6bba7, ellipse_4,slacs1630+4520,                    2,       True
+2ebaee90b3022203821c642395f433da,ellipse_15,slacs1630+4520,                    2,       True
+c2744e9b6fd60fc13597c75bf47e3909,ellipse_12,slacs1630+4520,                    2,       True
+68da7ca0742af3a90b2a373185f6359c,ellipse_13,slacs1630+4520,                    2,       True
+6399b5dbe13d8055938bc7ea3b8db1b5,   fit_all,slacs1630+4520,                    1,       True
+c0f63971a26145f7e830b0bd4b53a0bf,ellipse_14,slacs1630+4520,                    2,       True
+1646ced5e8c0e01701b0719d6e47ee5a, ellipse_8,slacs1630+4520,                    2,       True
+a3ab6ed69eff2f96c0d8f2bc8c2b3e67, ellipse_1,slacs1630+4520,                    2,       True
+393ddf52c6301d7857b7502c416ce74c, ellipse_6,slacs1630+4520,                    2,       True
+f6988d128cf2792491de4216fc732fdc, ellipse_7,slacs1630+4520,                    2,       True
+5c87fb387b4eb9581e864a0708e5695f, ellipse_0,slacs1630+4520,                    2,       True
+caea2c1fc872e9e19c5e7836ded53b3d, ellipse_9,slacs1630+4520,                    2,       True
+6f238a1e831784ddf9d1db99aafda3ec,     setup,SDSSJ1110+2808,                   12,       True
+d1d3d1875b5aec801eadd8692f4ef623, ellipse_2,SDSSJ1110+2808,                    2,       True
+0585edfbfdff442817be9f6545418a1f, ellipse_3,SDSSJ1110+2808,                    2,       True
+8448b7074d417aa0ec92b8b7357d9e71,   fit_all,SDSSJ1110+2808,                    1,       True
+8ccff685bbd2e7011db2808feebb5b80, ellipse_1,SDSSJ1110+2808,                    2,       True
+8d111f9ba32409fb2993e48edef4937b, ellipse_0,SDSSJ1110+2808,                    2,       True
+e32ddba0db14ad3b46dd2865870d8acb,ellipse_18,slacs1029+0420,                    2,       True
+3e16a6401530be3cd067924c8171416a,ellipse_11,slacs1029+0420,                    2,       True
+b26857c3dc7f4296fc8d58235d51f8ae,ellipse_16,slacs1029+0420,                    2,       True
+b9f392020924f50f464af11e10eeee1a,ellipse_17,slacs1029+0420,                    2,       True
+b310c3e527de85cacc481da91973fa92,ellipse_10,slacs1029+0420,                    2,       True
+354a4796acfd44347fa03e3061115b83,     setup,slacs1029+0420,                   12,       True
+9a79b5082df7188b0917cc1e4d6e0d6f, ellipse_5,slacs1029+0420,                    2,       True
+f90d6a8516e195c615fa5429b3b184dc, ellipse_2,slacs1029+0420,                    2,       True
+a0911862925d0d02f6667f35f34fee73, ellipse_3,slacs1029+0420,                    2,       True
+0e7a3cf78992718a0444cc99a38b1274, ellipse_4,slacs1029+0420,                    2,       True
+c8b94e292240336730b01d98528ed007,ellipse_15,slacs1029+0420,                    2,       True
+ca46521ced425a2ea3b67b044740c93c,ellipse_12,slacs1029+0420,                    2,       True
+4cbe78d5ed96ff159801dbdb023d9e3a,ellipse_13,slacs1029+0420,                    2,       True
+0fdb4201b04f652c7f9f9385bb9993a4,   fit_all,slacs1029+0420,                    1,       True
+87f10ab1b3bb927b790af98af0b5f511,ellipse_14,slacs1029+0420,                    2,       True
+3e42e0625a6a43b9f117abf129b57efa, ellipse_8,slacs1029+0420,                    2,       True
+c93ec979266fc0eac8ec77dd3b582cf9, ellipse_1,slacs1029+0420,                    2,       True
+9d717f39f43e713af76d9982b079f8ef, ellipse_6,slacs1029+0420,                    2,       True
+f9ae04f494733c55d43f8d7b887e1ecc, ellipse_7,slacs1029+0420,                    2,       True
+f8be5538b00ea35f5058de42fc97eab5, ellipse_0,slacs1029+0420,                    2,       True
+1634172efb7e896a67795f6c30211749, ellipse_9,slacs1029+0420,                    2,       True
+d913adc749d44ee2fdc8ad9d2293900d,     setup,SDSSJ0237-0641,                   12,       True
+39423703b8a52e04ca97830a4902bca3,   fit_all,SDSSJ0237-0641,                    1,       True
+bf64407417472447bb36b7442ac3f40a, ellipse_0,SDSSJ0237-0641,                    2,       True
+693fc4e9eb2388ac3dbcf6c7c97541e0,ellipse_18,slacs0737+3216,                    2,       True
+09fe3e0f5953e04d95da50950c0e8eaa,ellipse_11,slacs0737+3216,                    2,       True
+9c23c5482a2be3af511f7cf88051d915,ellipse_16,slacs0737+3216,                    2,       True
+4bf83355c7f27f2a57604a90705fac0a,ellipse_17,slacs0737+3216,                    2,       True
+7cc6b4333ab1c32cb105d8374162b439,ellipse_10,slacs0737+3216,                    2,       True
+d7e8ed5d68bf8cad14601084da56a9d4,     setup,slacs0737+3216,                   12,       True
+488979a645dd794d4d09062c118ae4ea, ellipse_5,slacs0737+3216,                    2,       True
+047ccc615ad39aad7d0d498a8a29873a, ellipse_2,slacs0737+3216,                    2,       True
+16e477d3a678393ba150b69fd9143c02, ellipse_3,slacs0737+3216,                    2,       True
+bc34b5d31c4897fb7fca996ef84b18d7, ellipse_4,slacs0737+3216,                    2,       True
+66ce3ea863dc20c4d7a064032abaec7d,ellipse_15,slacs0737+3216,                    2,       True
+f68c205d3c8e13f599a6a13d2f0a9ec5,ellipse_12,slacs0737+3216,                    2,       True
+210ea8de222b6c8467d7ca71a7f4a3aa,ellipse_13,slacs0737+3216,                    2,       True
+d5b74c04eda11bd54d83e599ebbfd747,   fit_all,slacs0737+3216,                    1,       True
+78178e082a69f1ff28ea0bda68c5881f,ellipse_14,slacs0737+3216,                    2,       True
+dcf4114f8affaf55ca41e5c1155b19bc, ellipse_8,slacs0737+3216,                    2,       True
+f0773cf1a5090fef9672eccceecef649, ellipse_1,slacs0737+3216,                    2,       True
+08476c4af4dc06975f0210c4e07da2a2, ellipse_6,slacs0737+3216,                    2,       True
+7ef882ee6788205c824939b92b92ad2c, ellipse_7,slacs0737+3216,                    2,       True
+d1c320f352774fee192b6c2dd3de74bf, ellipse_0,slacs0737+3216,                    2,       True
+71873acb4d009978d04cb793a18a102d, ellipse_9,slacs0737+3216,                    2,       True
+e8a386eb9d492d939b20e67e5b8e3a6a,ellipse_18,slacs1420+6019,                    2,       True
+1397168312e1b36699bf1350828f52e1,ellipse_11,slacs1420+6019,                    2,       True
+0a8653ec834c09ae9af790d361becb55,ellipse_16,slacs1420+6019,                    2,       True
+5a030eaf0b3731f3b64014805fe2aeeb,ellipse_17,slacs1420+6019,                    2,       True
+a1bb607191a4469ef5941e34387aa7f1,ellipse_10,slacs1420+6019,                    2,       True
+e8f00c8c65160565e85ce23b65e67a51,     setup,slacs1420+6019,                   12,       True
+bdb945d3f576b8b4f1ef605acd59b764, ellipse_5,slacs1420+6019,                    2,       True
+7cecfcefde7b317a97d085762783ac6a, ellipse_2,slacs1420+6019,                    2,       True
+5f2a9d1283fdb5870c7f6b2ff3654eba, ellipse_3,slacs1420+6019,                    2,       True
+5ad84aa641051e53f2d9debc0f20e436, ellipse_4,slacs1420+6019,                    2,       True
+9454caced0f9866335f1e5e87e650faf,ellipse_15,slacs1420+6019,                    2,       True
+e9af57b9a738ec7cc782390133412f4c,ellipse_12,slacs1420+6019,                    2,       True
+36abbc076876b916ae305bcdcbbce714,ellipse_13,slacs1420+6019,                    2,       True
+7a2ed56b067ce8746720d14eb5a74032,   fit_all,slacs1420+6019,                    1,       True
+513ad43c25bb21db9e1ae231c38a755a,ellipse_14,slacs1420+6019,                    2,       True
+c4ebceffa193678977fa154d07149f45, ellipse_8,slacs1420+6019,                    2,       True
+4d424ad67238da6b54a6eccc2c7aea3b, ellipse_1,slacs1420+6019,                    2,       True
+630db24cf154dfd3e911b5c74fa13a7b, ellipse_6,slacs1420+6019,                    2,       True
+1f101b33e3b373acbc1d69e1e1725fae, ellipse_7,slacs1420+6019,                    2,       True
+539184f1f630192aee74543de1126e7e, ellipse_0,slacs1420+6019,                    2,       True
+b6d08a9815b8c4d03b31143823944e5e, ellipse_9,slacs1420+6019,                    2,       True
+bb58043c0799f2d9de2a5c8bf526d150,ellipse_18,slacs1142+1001,                    2,       True
+1c001dc257a504e6dc2f81b413da41b9,ellipse_11,slacs1142+1001,                    2,       True
+efa8d49730fc75512b54bb6c2c050ddf,ellipse_16,slacs1142+1001,                    2,       True
+24e9c4aeae3427c21a466f61e1e98729,ellipse_17,slacs1142+1001,                    2,       True
+9b1138feaf600925a3cacef7d7ae8f8d,ellipse_10,slacs1142+1001,                    2,       True
+b3b364822d36d9c1ddd629ecbeb699c7,     setup,slacs1142+1001,                   12,       True
+d74e3de4de0c5047fa1c6e487f874699, ellipse_5,slacs1142+1001,                    2,       True
+abab8b0b0702717bb1e671b1c0631668, ellipse_2,slacs1142+1001,                    2,       True
+540d88e659ab4d6e172e35001558fead, ellipse_3,slacs1142+1001,                    2,       True
+f843b6fd473188b60ee5d8ebb455afd2, ellipse_4,slacs1142+1001,                    2,       True
+9948e1ea81ff8946a455bad70fa28339,ellipse_15,slacs1142+1001,                    2,       True
+c22acdd1f37359ae0a6db75c53ae5f51,ellipse_12,slacs1142+1001,                    2,       True
+35f4b3fd126534363fef31815b52ec06,ellipse_13,slacs1142+1001,                    2,       True
+7bbdc1ffc0c0ae4072e3ec98bc415d81,   fit_all,slacs1142+1001,                    1,       True
+eb96976a18ddcac0f130e039d0e3849d,ellipse_14,slacs1142+1001,                    2,       True
+003ad3a0ba368b6567b63121afbcce60, ellipse_8,slacs1142+1001,                    2,       True
+76b1b38a096d35bf9933726961c149ab, ellipse_1,slacs1142+1001,                    2,       True
+11d5b047fef2d1e9babfcf0adf8703d5, ellipse_6,slacs1142+1001,                    2,       True
+12f198120e3a265a11e713fb13179ba2, ellipse_7,slacs1142+1001,                    2,       True
+d70507356edbc2496e460ed62daa2304, ellipse_0,slacs1142+1001,                    2,       True
+6f6214ad807e37b945442baf11a46d63, ellipse_9,slacs1142+1001,                    2,       True
+2e68dee37af538d37e99151ba061fd3a,ellipse_18,slacs1143-0144,                    2,       True
+1080f5573e68843d80834f5b89183113,ellipse_11,slacs1143-0144,                    2,       True
+fe31d8f28cec7037ca2ff86b39cd6237,ellipse_16,slacs1143-0144,                    2,       True
+f33bd2985f6822d93cb20c24236d9654,ellipse_17,slacs1143-0144,                    2,       True
+0f94d1a348801368f7e5d2900495329c,ellipse_10,slacs1143-0144,                    2,       True
+3b0c9fdc3738b1717a76384b628fe68f,     setup,slacs1143-0144,                   12,       True
+872ca99d9277a9152a2ea8ffec65bef1, ellipse_5,slacs1143-0144,                    2,       True
+638c8fe8356f5d36bd074f16d1cc87bb, ellipse_2,slacs1143-0144,                    2,       True
+2ef0bf908015e08413795e3b12ebc2e6, ellipse_3,slacs1143-0144,                    2,       True
+b23ae6c62673093ff9bd1dc8abd0ab8e, ellipse_4,slacs1143-0144,                    2,       True
+8d43366204631ae609a1f607a3297d5a,ellipse_15,slacs1143-0144,                    2,       True
+9f32d64314587dfc344b022ca26ba463,ellipse_12,slacs1143-0144,                    2,       True
+b35ea43fc2808cdb317e2bcc04db873f,ellipse_13,slacs1143-0144,                    2,       True
+b3ad06b91ab2b2734ea6c9cde70296cc,   fit_all,slacs1143-0144,                    1,       True
+0c816a154354156773915576e12a47ca,ellipse_14,slacs1143-0144,                    2,       True
+226c1288c4808b00a0c8b5aa6094b4b5, ellipse_8,slacs1143-0144,                    2,       True
+a02cd95ca56e1f0352379f97020aa888, ellipse_1,slacs1143-0144,                    2,       True
+b411f969566a960e220c70289ae376c1, ellipse_6,slacs1143-0144,                    2,       True
+9182a454c5c785e6c5dc2883aede0f83, ellipse_7,slacs1143-0144,                    2,       True
+d52bab51c2f013153baa39a877a72748, ellipse_0,slacs1143-0144,                    2,       True
+fb2ca0e4d81d277c4509ba16bcef1992, ellipse_9,slacs1143-0144,                    2,       True
+42cea8d05a2e097c2f8008ff75772572,ellipse_18,slacs1218+0830,                    2,       True
+1064f06133c3fec0edbc5df4f2ecd540,ellipse_11,slacs1218+0830,                    2,       True
+f8ce9dc0ae3df129bc5324c3c4f83e08,ellipse_16,slacs1218+0830,                    2,       True
+ce5e6fefeaba61febe57eb4c648bffbd,ellipse_17,slacs1218+0830,                    2,       True
+bed313f75681c0e21589b11f7c0b294f,ellipse_10,slacs1218+0830,                    2,       True
+6e7b859dd3bb5595bf4ec2206ac9a439,     setup,slacs1218+0830,                   12,       True
+7ccf0ef77340ff26f04c9c8dda43cba0, ellipse_5,slacs1218+0830,                    2,       True
+f47d32a9a5a41fc3e14b001f973f595e, ellipse_2,slacs1218+0830,                    2,       True
+5bbb600557de61c90b41d9c74b94b871, ellipse_3,slacs1218+0830,                    2,       True
+503349b8c1dc9f4ed4c9071dff749315, ellipse_4,slacs1218+0830,                    2,       True
+1fa755ec456125131304df7129a312c7,ellipse_15,slacs1218+0830,                    2,       True
+e7a6ff8db08737d4342edce8d588e27b,ellipse_12,slacs1218+0830,                    2,       True
+ef8a4e95437c69877bcf7c19227feeda,ellipse_13,slacs1218+0830,                    2,       True
+8c07d4793b0e956dc4774fc0cb5c8374,   fit_all,slacs1218+0830,                    1,       True
+17bed5d768db68eff34e8dc353b2ab91,ellipse_14,slacs1218+0830,                    2,       True
+a82a5f515c51e1ce3bc3889748663bc3, ellipse_8,slacs1218+0830,                    2,       True
+2b54698b925e14d347a3f132900dc950, ellipse_1,slacs1218+0830,                    2,       True
+b6d4031d86a2e6e69d1fbd8f7bc25b0b, ellipse_6,slacs1218+0830,                    2,       True
+363ffc10cbcd013642456d4f0b94df99, ellipse_7,slacs1218+0830,                    2,       True
+dde0ae485a888be7b4e6a7ff89915dee, ellipse_0,slacs1218+0830,                    2,       True
+c04939d213f4c324ca31c7384f70aed4, ellipse_9,slacs1218+0830,                    2,       True
+e066a7c400b2ce78583de0f90393a4de,     setup,SDSSJ2228+1205,                   12,       True
+bbe88f79b84675aefd39cf9b3ae247c1, ellipse_2,SDSSJ2228+1205,                    2,       True
+4282f4dc1cf250adfd2e62f8ec1a9ca8, ellipse_3,SDSSJ2228+1205,                    2,       True
+906b5a8aa84395ac3c4fe371d7d80719,   fit_all,SDSSJ2228+1205,                    1,       True
+3b8ba22d717c3f3abb6a45091e66c1ba, ellipse_1,SDSSJ2228+1205,                    2,       True
+ad8fedde9e2b7789167c2d315abc27ae, ellipse_0,SDSSJ2228+1205,                    2,       True
+cf7ac6e109a7da30c37482a178a6b7e4,     setup,SDSSJ1226+5457,                   12,       True
+8722a1a2d9426a46aff2a4adc22ee094, ellipse_5,SDSSJ1226+5457,                    2,       True
+152abe4e83e8cae483b7b160bc22135d, ellipse_2,SDSSJ1226+5457,                    2,       True
+5cb0407f3c5404f808859d35c351715c, ellipse_3,SDSSJ1226+5457,                    2,       True
+ab2b5a9028825e0da0e54ea6653f4079, ellipse_4,SDSSJ1226+5457,                    2,       True
+cc5fffcf6b3fad24056abebef59ae8d8,   fit_all,SDSSJ1226+5457,                    1,       True
+2e95dd3fb784896fe0b7f78f5a0fed49, ellipse_1,SDSSJ1226+5457,                    2,       True
+bf238a93599bca050e4cb4102acbc7bc, ellipse_0,SDSSJ1226+5457,                    2,       True
+02c544673828b1c6dbf86c00833bde50,ellipse_18,slacs1023+4230,                    2,       True
+0b2e791173c08e949d9fabafac59ecb6,ellipse_11,slacs1023+4230,                    2,       True
+912133957799f90bd233e32ec585a08e,ellipse_16,slacs1023+4230,                    2,       True
+afee8bdf7ff4eb8ce0a630e41487b976,ellipse_17,slacs1023+4230,                    2,       True
+2d4d30663b21d7d419db2a32f9fb6713,ellipse_10,slacs1023+4230,                    2,       True
+25ac08885cb041165ce267bb701e0106,     setup,slacs1023+4230,                   12,       True
+745ae84a0a2c1fc11f3e66583453a7ec, ellipse_5,slacs1023+4230,                    2,       True
+9f8309fd4412097d530074879559610f, ellipse_2,slacs1023+4230,                    2,       True
+ea366fdc30f77cc30ba6e0b48f94aa6d, ellipse_3,slacs1023+4230,                    2,       True
+7e7b500deb28228f6e1203a91a53f157, ellipse_4,slacs1023+4230,                    2,       True
+666a0a156419e0739505386c2af9f077,ellipse_15,slacs1023+4230,                    2,       True
+d95e3245ae0685ee116c2bce4bfe8706,ellipse_12,slacs1023+4230,                    2,       True
+7dcd5fc7092758d8c8012962437d7858,ellipse_13,slacs1023+4230,                    2,       True
+260478af5830b5e699ed8bb42c721e36,   fit_all,slacs1023+4230,                    1,       True
+d3a23081038217fa63e8ec1ecce9f089,ellipse_14,slacs1023+4230,                    2,       True
+d86dc6b9102a01eee4fcde8278844c17, ellipse_8,slacs1023+4230,                    2,       True
+67409ab18f8a19660068bd974f21273d, ellipse_1,slacs1023+4230,                    2,       True
+a3e0aed119b49a7af9b29df3e2d17c25, ellipse_6,slacs1023+4230,                    2,       True
+8997a010b83f188aac9fea0db1ff76d0, ellipse_7,slacs1023+4230,                    2,       True
+f70cd06e63837569cfc4610d0ea1286e, ellipse_0,slacs1023+4230,                    2,       True
+24ce52573cf910267dc9327d54ae8343, ellipse_9,slacs1023+4230,                    2,       True
+d0c818b8d26ba2c8c695fd57d0b1d978,ellipse_18,slacs1430+4105,                    2,       True
+52445d5b9ef199e5f3b412475f28e518,ellipse_11,slacs1430+4105,                    2,       True
+26fde95663cc85a43aeab439079ed9b0,ellipse_16,slacs1430+4105,                    2,       True
+ac820f154c7dd2a088d116eb24b0e224,ellipse_17,slacs1430+4105,                    2,       True
+c4ceb85a6c3b5f6d785ab93ed4123c28,ellipse_10,slacs1430+4105,                    2,       True
+a7d707838d768d2bf7c139f377741414,     setup,slacs1430+4105,                   12,       True
+419e6b953c04dd2085f6a78ecc303f26, ellipse_5,slacs1430+4105,                    2,       True
+93b64ce53856d0f224fce3c3ff197df5, ellipse_2,slacs1430+4105,                    2,       True
+90dafeb185c7cd9a2181169bd9ae1000, ellipse_3,slacs1430+4105,                    2,       True
+1e04713cfcb30e49621c615d996135fa, ellipse_4,slacs1430+4105,                    2,       True
+1e8ab9439c1e9f7907ad1916b9eb7f52,ellipse_15,slacs1430+4105,                    2,       True
+c7e6752bdab5345a35e042be6e68a777,ellipse_12,slacs1430+4105,                    2,       True
+932e62e86a64d738374badedc8ce8d0c,ellipse_13,slacs1430+4105,                    2,       True
+42884a0c5b35701acba7dd3f82228782,   fit_all,slacs1430+4105,                    1,       True
+8e6f64b00d27d813ea7343efcd40ff6a,ellipse_14,slacs1430+4105,                    2,       True
+6c7fea0d6dda42aaae676c06144ddcb2, ellipse_8,slacs1430+4105,                    2,       True
+ba18d6b5c6a02d6f1f5e0b82d948b8a9, ellipse_1,slacs1430+4105,                    2,       True
+327f96a980c009d8b6c534a1a9adbe25, ellipse_6,slacs1430+4105,                    2,       True
+672699b3845e7120ba500298ceaf63f3, ellipse_7,slacs1430+4105,                    2,       True
+2d75266bb090f3b1519c2a255cc75a89, ellipse_0,slacs1430+4105,                    2,       True
+f41f3ef0cb1037cd11c7337779e1c50b, ellipse_9,slacs1430+4105,                    2,       True
+6ca43c09bbb1f717dcfd3ca2992f270d,     setup,SDSSJ0742+3341,                   12,       True
+14e14a8a121e30b7cfb4c8ff5ea90cd1, ellipse_2,SDSSJ0742+3341,                    2,       True
+0a4c43d74c28dd143886d3c0e3a2e5eb, ellipse_3,SDSSJ0742+3341,                    2,       True
+e2608faed5c07a8ca01977431c4f95c8, ellipse_4,SDSSJ0742+3341,                    2,       True
+85640818763b84e1697324f0242eb5d4,   fit_all,SDSSJ0742+3341,                    1,       True
+3133552658605b95cbb47cd6d63041a4, ellipse_1,SDSSJ0742+3341,                    2,       True
+d2d681797744f8d435cec14041a21c3c, ellipse_0,SDSSJ0742+3341,                    2,       True
+3d006ee1fd0f41b8811c00fb1d89454e,     setup,SDSSJ1110+3649,                   12,       True
+9b61f0e60ad9e258413f33e8fb5e241c, ellipse_2,SDSSJ1110+3649,                    2,       True
+1ebd22f2e3a5d33cf3c39922f81147f9, ellipse_3,SDSSJ1110+3649,                    2,       True
+1cd476d12d7e0667773a1ab0890b6b52,   fit_all,SDSSJ1110+3649,                    1,       True
+2abc933ebfa736244abf83c96394495d, ellipse_1,SDSSJ1110+3649,                    2,       True
+28beaf8f66cf107a16b03867555a19a8, ellipse_0,SDSSJ1110+3649,                    2,       True
+12fbc49811327b13ec7b00dd8c41ace1,ellipse_18,slacs1020+1122,                    2,       True
+8b5c7307ddf050d0a40b30b52ba7eefa,ellipse_11,slacs1020+1122,                    2,       True
+887e607fd571764873df2298f0512dbf,ellipse_16,slacs1020+1122,                    2,       True
+818072ae169664e310b77dc5188ff9cb,ellipse_17,slacs1020+1122,                    2,       True
+df98711b81a932893df6e706d409a101,ellipse_10,slacs1020+1122,                    2,       True
+5fa11b314b9872470492a71ae6e16e0d,     setup,slacs1020+1122,                   12,       True
+18c05f5dbf06a4e914698ecfe9189c73, ellipse_5,slacs1020+1122,                    2,       True
+75ec27f95fca4954611c0c3d6c96de8c, ellipse_2,slacs1020+1122,                    2,       True
+5f100f29ae8db41cdab800d536a4650a, ellipse_3,slacs1020+1122,                    2,       True
+83ac04672ff8901b40852771f55b6c6a, ellipse_4,slacs1020+1122,                    2,       True
+1f6d0cae813341747802e6fc0ed30541,ellipse_15,slacs1020+1122,                    2,       True
+edc7c370d398218005b1e0087730a545,ellipse_12,slacs1020+1122,                    2,       True
+b5ce22432030c54e08036a190d4670bb,ellipse_13,slacs1020+1122,                    2,       True
+7f9144e528dbb16cb61708d83354aeae,   fit_all,slacs1020+1122,                    1,       True
+ac19fcdd963ee2a588ed206426a69e0f,ellipse_14,slacs1020+1122,                    2,       True
+16d307b31f5b28f94c00a29993c13b1e, ellipse_8,slacs1020+1122,                    2,       True
+a7b1fe8aebb6d5b0eb31c949034de2a2, ellipse_1,slacs1020+1122,                    2,       True
+644042c58567b0b667b80d0c528d30a0, ellipse_6,slacs1020+1122,                    2,       True
+05615ac5c421c8cc76d73b29c310cddf, ellipse_7,slacs1020+1122,                    2,       True
+4205baa00f0497246797f7d1a432324b, ellipse_0,slacs1020+1122,                    2,       True
+5f2026d95c469ff02dc8bd252c51e3f6, ellipse_9,slacs1020+1122,                    2,       True
+f6bb1ec478172bbf69a87ca28088d8b8,ellipse_18,slacs1032+5322,                    2,       True
+dff284cf87bdade4e9f6634d538cbfab,ellipse_11,slacs1032+5322,                    2,       True
+3bb227d829d40cf307cf6aa81cca4530,ellipse_16,slacs1032+5322,                    2,       True
+59f41a18c3300a413b7dfe1db7943405,ellipse_17,slacs1032+5322,                    2,       True
+7ccd9ca6d8a258bc70a204dc6fb67d70,ellipse_10,slacs1032+5322,                    2,       True
+af461d5abcaf4edaa996fd4079d05332,     setup,slacs1032+5322,                   12,       True
+0860cccc203b617de094a58841e9b1d4, ellipse_5,slacs1032+5322,                    2,       True
+892321d85feb1610981a4e93e7a64fc5, ellipse_2,slacs1032+5322,                    2,       True
+a78baa50b4b42711ecf264884c391a0d, ellipse_3,slacs1032+5322,                    2,       True
+cd806b50782c687ae37d6c3cd78b2e52, ellipse_4,slacs1032+5322,                    2,       True
+0c6d2ec9d633886a8b6d4ca3beeb5e9b,ellipse_15,slacs1032+5322,                    2,       True
+041afcd54f61f5026665bf368e07422e,ellipse_12,slacs1032+5322,                    2,       True
+7a4ff4a6776ee4d9320ae8f86723eb4e,ellipse_13,slacs1032+5322,                    2,       True
+55326cc3874e24f22cc862a53446358b,   fit_all,slacs1032+5322,                    1,       True
+ec99a0010afe67b5ff32f970403ca5a7,ellipse_14,slacs1032+5322,                    2,       True
+3feaa082a806e0dec51907abe788f551, ellipse_8,slacs1032+5322,                    2,       True
+911a1d4fa31f8f0c891e277e3ecdf448, ellipse_1,slacs1032+5322,                    2,       True
+98916f3c3c02ea7e4af20ad122334f94, ellipse_6,slacs1032+5322,                    2,       True
+5e81a17c6bf7930a03745e7b55cdf297, ellipse_7,slacs1032+5322,                    2,       True
+118b4165a7a020ea465626f98bf82859, ellipse_0,slacs1032+5322,                    2,       True
+5305053fec4b62c5fd8adaf3e4105ce1, ellipse_9,slacs1032+5322,                    2,       True
+29aa7402e0f0486cb83b5b7de7f5a69e,     setup,SDSSJ1141+2216,                   12,       True
+86b25a0c5fcf57d994368c416ff804d9, ellipse_2,SDSSJ1141+2216,                    2,       True
+9b0cc54979e1ffb61aadd1bf7afe5430, ellipse_3,SDSSJ1141+2216,                    2,       True
+385ef4d53d7ad4edaf1d1faecc623fae,   fit_all,SDSSJ1141+2216,                    1,       True
+d5bd554fa6d4cc5fdfa7663f31f42366, ellipse_1,SDSSJ1141+2216,                    2,       True
+f2cd522373bd11ef8145bf7e2e8f933a, ellipse_0,SDSSJ1141+2216,                    2,       True
+633e6a2d32aebb640938ea56a6d18bbc,ellipse_18,slacs2300+0022,                    2,       True
+45a76502359ca2d60865b27f1ae60f93,ellipse_11,slacs2300+0022,                    2,       True
+0ef9fa1546c8e1febfb3c7a7e36f29fd,ellipse_16,slacs2300+0022,                    2,       True
+e665d8203c9ac8cff9c3fd79cddd2436,ellipse_17,slacs2300+0022,                    2,       True
+0d15e129d16f10f2cef77340095cd4c6,ellipse_10,slacs2300+0022,                    2,       True
+d4742c51f2f564af833a20262191963f,     setup,slacs2300+0022,                   12,       True
+304712589e263a836fb6ad93a9b572ce, ellipse_5,slacs2300+0022,                    2,       True
+f33e29f8d1341a87363b5e6e95e41766, ellipse_2,slacs2300+0022,                    2,       True
+3eafdb635a77c3027e969efbdb135b06, ellipse_3,slacs2300+0022,                    2,       True
+5f48d4fa7984e5c002d4fb624fcaa659, ellipse_4,slacs2300+0022,                    2,       True
+8ba47bf0c453f3a6ee8e098d3dbda48c,ellipse_15,slacs2300+0022,                    2,       True
+b71d1e88ca1e7ba97fb92313c1061677,ellipse_12,slacs2300+0022,                    2,       True
+5c0f0268a17087ce86c0cc56ed0ef5dc,ellipse_13,slacs2300+0022,                    2,       True
+200f951b78cb96f27f1459abb70c6615,   fit_all,slacs2300+0022,                    1,       True
+91e6b083e3ee6c5eff1bb9b1dbda8bf3,ellipse_14,slacs2300+0022,                    2,       True
+47a890061b7b82525608742297d920eb, ellipse_8,slacs2300+0022,                    2,       True
+cdf8279900eaafc78838c6c311ebcf48, ellipse_1,slacs2300+0022,                    2,       True
+0b10622b31f13363d5c94a39a3e78b28, ellipse_6,slacs2300+0022,                    2,       True
+2b4fda35a2aac4eb71d7b02f51062c2b, ellipse_7,slacs2300+0022,                    2,       True
+ac9abb04db06788235e47f23b253c665, ellipse_0,slacs2300+0022,                    2,       True
+151e13f8cbc2adae69779104574c69af, ellipse_9,slacs2300+0022,                    2,       True
+6258630eee62642fb94a047490e809ff,ellipse_18,slacs0728+3835,                    2,       True
+9964bf0f31bc892ef70abe43911c0fe5,ellipse_11,slacs0728+3835,                    2,       True
+aea33d25695d32f86a4330f2960e8d04,ellipse_16,slacs0728+3835,                    2,       True
+dca0ff1c4365bb19a2cea0499003fb1a,ellipse_17,slacs0728+3835,                    2,       True
+7d475b4c048a83efe7ba4d232500aa70,ellipse_10,slacs0728+3835,                    2,       True
+57e2d2c7868fee080e4538bf7b036030,     setup,slacs0728+3835,                   12,       True
+dcc52c0948beea554c0de29d048f84df, ellipse_5,slacs0728+3835,                    2,       True
+b6122c07a6bdbd28d78121286c2bf1c9, ellipse_2,slacs0728+3835,                    2,       True
+a1c08e71a12c07f0e7006ba7b58b9575, ellipse_3,slacs0728+3835,                    2,       True
+d3898eb13fc1896234e726b77032390d, ellipse_4,slacs0728+3835,                    2,       True
+98d7330ac179cf16bc1203d6de4f3bc2,ellipse_15,slacs0728+3835,                    2,       True
+e332aa3b2f410cf53edeacccb45c7a30,ellipse_12,slacs0728+3835,                    2,       True
+87817e372a090e9d64bbf34199344382,ellipse_13,slacs0728+3835,                    2,       True
+7e02b3bba5915641dd457b858223ce49,   fit_all,slacs0728+3835,                    1,       True
+2b5509db69e8b7164856c7b43040da30,ellipse_14,slacs0728+3835,                    2,       True
+42b92445aabed4319ef22c9047862959, ellipse_8,slacs0728+3835,                    2,       True
+b3abd70a16e0071ba3a6c95f2fbbcd28, ellipse_1,slacs0728+3835,                    2,       True
+b8806d59c4e0f9d8b35c72b45623a7fd, ellipse_6,slacs0728+3835,                    2,       True
+f314a769c311485872ef83d92e065d8a, ellipse_7,slacs0728+3835,                    2,       True
+da38bde379f47f537b8817d233ca10d4, ellipse_0,slacs0728+3835,                    2,       True
+96d194ffdd08cdf42dbb9a18691811a3, ellipse_9,slacs0728+3835,                    2,       True
+3e144c086d3e7fe79aee997831438bbc,ellipse_18,slacs0946+1006,                    2,       True
+4098205151581a29545832fb85a2b081,ellipse_11,slacs0946+1006,                    2,       True
+c692cf5e17ef8576bb483b0279031be9,ellipse_16,slacs0946+1006,                    2,       True
+5d22a1422e49ad6ecd0c77e19637f491,ellipse_17,slacs0946+1006,                    2,       True
+dc5bc4aa2629ffd921de09a9cf8acdb9,ellipse_10,slacs0946+1006,                    2,       True
+6b365afc39c1e76fff4fd037aaf66405,     setup,slacs0946+1006,                   12,       True
+fae1d23c96286eba189637e9342128da, ellipse_5,slacs0946+1006,                    2,       True
+3fca0fec8325a5f99f7c4f3e6dc1a7aa, ellipse_2,slacs0946+1006,                    2,       True
+9ae409663d2ac7585d5a34188c2d0a31, ellipse_3,slacs0946+1006,                    2,       True
+3a779593e5764d79e17ccf2cd67d0202, ellipse_4,slacs0946+1006,                    2,       True
+2aebd18651dad66a88cf1408f2af28ce,ellipse_15,slacs0946+1006,                    2,       True
+ef68406e4cfab9ce98e04fdb60ea3f02,ellipse_12,slacs0946+1006,                    2,       True
+d5a990537728514345f207f53a131a71,ellipse_13,slacs0946+1006,                    2,       True
+64de8c5b6343987ced707b878782add7,   fit_all,slacs0946+1006,                    1,       True
+bea110e36c26c751d7fdf3347b9bffc5,ellipse_14,slacs0946+1006,                    2,       True
+439404a13583bc5d3f4cc12909be0585, ellipse_8,slacs0946+1006,                    2,       True
+047f7109063bdd644ef732d7476e2696, ellipse_1,slacs0946+1006,                    2,       True
+85b4bbf577fbf6774d478b6f32ab2e16, ellipse_6,slacs0946+1006,                    2,       True
+ea785cd14c695baf6d28e074494173e6, ellipse_7,slacs0946+1006,                    2,       True
+b58f96bfe04f4baef1512f16c2931445, ellipse_0,slacs0946+1006,                    2,       True
+2ee0c61311f3b4fa2388532200a1578f, ellipse_9,slacs0946+1006,                    2,       True
+8801f9a8e392125e41f13e0a4ddfd680,     setup,SDSSJ0755+3445,                   12,       True
+ab3d34e5526680287f91c1f7a016ee4c, ellipse_2,SDSSJ0755+3445,                    2,       True
+e5a1e00fe37ecba21265aa1b1685f270, ellipse_3,SDSSJ0755+3445,                    2,       True
+1c764f64209ed219c0680d4699913f72,   fit_all,SDSSJ0755+3445,                    1,       True
+04cd50683efbeee228730442d78c158e, ellipse_1,SDSSJ0755+3445,                    2,       True
+418b9c7e8a8b6c8713b2f30462416beb, ellipse_0,SDSSJ0755+3445,                    2,       True
+c7e1f9c7ab6f16f0f561c34a41392200,ellipse_10,slacs0252+0039,                    2,       True
+9b881736dd3572ca505c8175fb634d29,     setup,slacs0252+0039,                   12,       True
+561fda7fc8f2221612185c9ec4697176, ellipse_5,slacs0252+0039,                    2,       True
+24bded46f013a271e5b30bae89bc8d0f, ellipse_2,slacs0252+0039,                    2,       True
+425ae57b445f9d73a7bf402cd7c1a76e, ellipse_3,slacs0252+0039,                    2,       True
+62de11b426ef883dde24182734a96c0e, ellipse_4,slacs0252+0039,                    2,       True
+2aea5c07b9c7a45f9a92dce66adadfc7,   fit_all,slacs0252+0039,                    1,       True
+a04d1c17dd7e93958fd514c67262f823, ellipse_8,slacs0252+0039,                    2,       True
+dd204076cca7a2cc18c74d0a32813c80, ellipse_1,slacs0252+0039,                    2,       True
+609932d93ffdd5e9f371e2360b41ced5, ellipse_6,slacs0252+0039,                    2,       True
+3ed3a3881fc39ff0080438d03c814669, ellipse_7,slacs0252+0039,                    2,       True
+c7b9df80a7081b6ce174cc1ac9e27685, ellipse_0,slacs0252+0039,                    2,       True
+0beb008ce4778702c90888019a5d9f0c, ellipse_9,slacs0252+0039,                    2,       True
+580693eb582d7b7fb965bbd0ac0553a9,ellipse_18,slacs0912+0029,                    2,       True
+b820a7497c652c847b14ddf5243f8eaf,ellipse_11,slacs0912+0029,                    2,       True
+ae178794261dd079ba5c246df0fe43eb,ellipse_16,slacs0912+0029,                    2,       True
+524cf3500f8f9a8300e89c9e48100fb5,ellipse_17,slacs0912+0029,                    2,       True
+26ecdbb4f1c44dc411d0d0333844b610,ellipse_10,slacs0912+0029,                    2,       True
+3a3f413823b276385a937544863f7a76,     setup,slacs0912+0029,                   12,       True
+b6fd2caa4ea249a9aefef0b03e8ec94b, ellipse_5,slacs0912+0029,                    2,       True
+9a45f1e8eba1949c6c277a9434644755, ellipse_2,slacs0912+0029,                    2,       True
+35b3be170da56e4397087526d9446a1d, ellipse_3,slacs0912+0029,                    2,       True
+573d7bf199616671e5b2ef73251e7477, ellipse_4,slacs0912+0029,                    2,       True
+a61640493fda39f41c93b33358816671,ellipse_15,slacs0912+0029,                    2,       True
+4063b56bbe96214ad7305f925a847107,ellipse_12,slacs0912+0029,                    2,       True
+0bf4613ea9670fb628e74352006f024b,ellipse_13,slacs0912+0029,                    2,       True
+295e2a54f53a3151636f9d3acd89cf05,   fit_all,slacs0912+0029,                    1,       True
+8755266ebecffd63172a61bae0ee59b3,ellipse_14,slacs0912+0029,                    2,       True
+0788dcbf530b5594f1c0d6584d25b22a, ellipse_8,slacs0912+0029,                    2,       True
+03f2e2363c8c5f12d61c024d3a3a553e, ellipse_1,slacs0912+0029,                    2,       True
+4cf111d13e947f067074c00fb77316e0, ellipse_6,slacs0912+0029,                    2,       True
+593ae030a5408288cca969c4967fa2eb, ellipse_7,slacs0912+0029,                    2,       True
+9f7df8885574d0770ce28a1602b6efda, ellipse_0,slacs0912+0029,                    2,       True
+800caafd046e2fed0f5eeba9fd1c47ef, ellipse_9,slacs0912+0029,                    2,       True
+8db39f8eab0dae0a1f8f6e4192f02b09,     setup,SDSSJ0113+0250,                   12,       True
+8eea52fa2fe9881222b5ba183babe9b5, ellipse_2,SDSSJ0113+0250,                    2,       True
+7ca265ce720756331dc204f46314aa66, ellipse_3,SDSSJ0113+0250,                    2,       True
+62c0fb16f77dee519947dd8d18b21bcc,   fit_all,SDSSJ0113+0250,                    1,       True
+2c5b6bec7a558264f78e0be63c68f75b, ellipse_1,SDSSJ0113+0250,                    2,       True
+bb4e00c9f25153645d77d4b7ba33b83b, ellipse_0,SDSSJ0113+0250,                    2,       True
+cf18d9076fc44dba6aa25f451ebfa6c9,ellipse_18,slacs0029-0055,                    2,       True
+132f3fb8b4a0edd2c9997c2f25071029,ellipse_11,slacs0029-0055,                    2,       True
+ffc25e849f2549b3ae921054b1db878d,ellipse_16,slacs0029-0055,                    2,       True
+d07ac4021b9b141204288369991b12da,ellipse_17,slacs0029-0055,                    2,       True
+bc891c35aa9ba456a859517de78f655c,ellipse_10,slacs0029-0055,                    2,       True
+87cc94612b9c5051fa547553a7d983c5,     setup,slacs0029-0055,                   12,       True
+e9cd4282f8ba280f20687b66bafda0ce, ellipse_5,slacs0029-0055,                    2,       True
+370c2860ae045b8c04e80a139f81386c, ellipse_2,slacs0029-0055,                    2,       True
+cf5c62d2f64f4862e85b6200b993e54b, ellipse_3,slacs0029-0055,                    2,       True
+003ea3fe2d8c37a4fb6cdccf233aa4b0, ellipse_4,slacs0029-0055,                    2,       True
+34e024b6cafbb9d19b5e9b02443e27b5,ellipse_15,slacs0029-0055,                    2,       True
+4a2cf5093cc4eeb1b1723ec0c232a95e,ellipse_12,slacs0029-0055,                    2,       True
+4e2f441bd305a2fc66b5cb6942cc65c4,ellipse_13,slacs0029-0055,                    2,       True
+26d3568a9c92f91ee0780027090f3461,   fit_all,slacs0029-0055,                    1,       True
+11e85a777c13e201fc1cea8b95359d24,ellipse_14,slacs0029-0055,                    2,       True
+0843c241ce24115a007bd4c5236a1051, ellipse_8,slacs0029-0055,                    2,       True
+8c20a4d5ef6ae6031ae4ab5006703716, ellipse_1,slacs0029-0055,                    2,       True
+1445dc2eb5260db14e8382b772ee3865, ellipse_6,slacs0029-0055,                    2,       True
+a6fa83060056a941f39e8c1cd98a7573, ellipse_7,slacs0029-0055,                    2,       True
+18109a1c0b2cb99aa2067f615b36edf5, ellipse_0,slacs0029-0055,                    2,       True
+862096f6fa0cb6ae393ab18fc8f49656, ellipse_9,slacs0029-0055,                    2,       True
+d475133bd67a408821265cc60c727f53,     setup,SDSSJ2342-0120,                   12,       True
+dce41fe335808f9ac06f7b021b7f6a1b, ellipse_2,SDSSJ2342-0120,                    2,       True
+bae27cf28cda2768b7aa9652c253971b, ellipse_3,SDSSJ2342-0120,                    2,       True
+02ec8718432c3c1c6d47b10bdc53d544, ellipse_4,SDSSJ2342-0120,                    2,       True
+a456e4529a82547c8900d3101f7e8e19,   fit_all,SDSSJ2342-0120,                    1,       True
+f1a03f321b8ae6eadc3dd95cbae96ee3, ellipse_1,SDSSJ2342-0120,                    2,       True
+c4cdc5ed73628f307f84b2539a41998d, ellipse_0,SDSSJ2342-0120,                    2,       True
+11879a49d65c3096dbe8fb337d43e038,     setup,SDSSJ0918+5104,                   12,       True
+420548a9a6e9f4c28be8bbfd1af0fb3f, ellipse_2,SDSSJ0918+5104,                    2,       True
+d47ed38ab91fc55ba853de367f92fc9f, ellipse_3,SDSSJ0918+5104,                    2,       True
+7198534fce7d2728a6f3a83db899d9f4,   fit_all,SDSSJ0918+5104,                    1,       True
+3c12d2371479123310b3a98f8859de05, ellipse_1,SDSSJ0918+5104,                    2,       True
+5ef47325cf0afa3a58011c048a4ddf1e, ellipse_0,SDSSJ0918+5104,                    2,       True
+a75296c06627e8e8e534edd4ff95f105,ellipse_18,slacs0216-0813,                    2,       True
+45d36db80d139e5f24e0b8b1fedb7b69,ellipse_11,slacs0216-0813,                    2,       True
+9ec291e83cb4063cefc00b584869564e,ellipse_16,slacs0216-0813,                    2,       True
+a78ce8e46eff6857654bf3c89df608d7,ellipse_17,slacs0216-0813,                    2,       True
+5f3b64d0e0ffe5cfbfb44608824d9f24,ellipse_10,slacs0216-0813,                    2,       True
+a25eb14b210bc30d6b5ae4e2e5348977,     setup,slacs0216-0813,                   12,       True
+e5798f35d072826286113ea15975804c, ellipse_5,slacs0216-0813,                    2,       True
+9a0ae60795680ccb20feee0994404c55, ellipse_2,slacs0216-0813,                    2,       True
+2f2ed2e896057c6f180b445b39c06585, ellipse_3,slacs0216-0813,                    2,       True
+607fca63376dae65123e5f4086cd384e, ellipse_4,slacs0216-0813,                    2,       True
+513c6993d16510fc129968c9cd8f4409,ellipse_15,slacs0216-0813,                    2,       True
+6c9c98d357ff0b4aeeed6bda805b6f2e,ellipse_12,slacs0216-0813,                    2,       True
+dc0053fd72610ab7360b332d8557359e,ellipse_13,slacs0216-0813,                    2,       True
+cc457ed81edbef05498ad18de67fcfe7,   fit_all,slacs0216-0813,                    1,       True
+3cd94116615a067f3263f5f8c59e83ba,ellipse_14,slacs0216-0813,                    2,       True
+79d366168b6cc933695119bca50c0c4a, ellipse_8,slacs0216-0813,                    2,       True
+4d64eae93c1c90215ad589fcd6b05c5a, ellipse_1,slacs0216-0813,                    2,       True
+88df84071ebb223e6e4b357ed59e1094, ellipse_6,slacs0216-0813,                    2,       True
+9decf408cf8be45410e37765a660a7da, ellipse_7,slacs0216-0813,                    2,       True
+02e07ec10ab0e9f48f1337876a9568b5, ellipse_0,slacs0216-0813,                    2,       True
+7bcfc55e8dbadd34bd0c091cdc674370, ellipse_9,slacs0216-0813,                    2,       True
+370316d1bcacd7a9799e71ef95629985,ellipse_18,slacs0822+2652,                    2,       True
+92bcc1653bf12fceb2a5ffde56473f43,ellipse_11,slacs0822+2652,                    2,       True
+ed9124119f584aae94b08611c8c2b1b6,ellipse_16,slacs0822+2652,                    2,       True
+2b2660e5d0d9433b59b878c082fe9f62,ellipse_17,slacs0822+2652,                    2,       True
+85e004bc16a99bc5be9f448bf46c3afb,ellipse_10,slacs0822+2652,                    2,       True
+faacc48ebdedce51790f14b0bb4d5c14,     setup,slacs0822+2652,                   12,       True
+21cfb9b8ce375be0b34761e4fae9ac6e, ellipse_5,slacs0822+2652,                    2,       True
+7c94181ebdb3af6e0921e78fe564faf7, ellipse_2,slacs0822+2652,                    2,       True
+7fb1d1bc726e7a5f6cd6f8087f368999, ellipse_3,slacs0822+2652,                    2,       True
+dd6e1cdeb77131ee7d4af287a298f214, ellipse_4,slacs0822+2652,                    2,       True
+56c008d43f793ed763b500fcef616e1a,ellipse_15,slacs0822+2652,                    2,       True
+8dd667e1b31fc8d5065c7b1d642509ec,ellipse_12,slacs0822+2652,                    2,       True
+f2a91e5765108df368bed90e485c48db,ellipse_13,slacs0822+2652,                    2,       True
+92ad7980baea9170f01408582a819774,   fit_all,slacs0822+2652,                    1,       True
+98cdb54521b09335c1f7801f7139e369,ellipse_14,slacs0822+2652,                    2,       True
+903b19673a440ff4114a28260bef94f1, ellipse_8,slacs0822+2652,                    2,       True
+da08280d0713265c6b576e8cf1067ae9, ellipse_1,slacs0822+2652,                    2,       True
+da1b09ced16bf78c240381c2b4918d81, ellipse_6,slacs0822+2652,                    2,       True
+3322f120e9e14b0ef81a5e889a760ad9, ellipse_7,slacs0822+2652,                    2,       True
+4d1c3429ade749378a8b12ef17c2fbb3, ellipse_0,slacs0822+2652,                    2,       True
+1144e9c7876e888ab3d490dc08818b0d, ellipse_9,slacs0822+2652,                    2,       True
+2ad19e21494cee4bb5f75988ff5375d8,ellipse_18,slacs2238-0754,                    2,       True
+8be6494bfbba687f9ae42ef5cf839718,ellipse_11,slacs2238-0754,                    2,       True
+bf9e6b8ad6b5592e9497c03767a93b9b,ellipse_16,slacs2238-0754,                    2,       True
+2bb506bd6de11e40d96420b662d225cc,ellipse_17,slacs2238-0754,                    2,       True
+9c237b514483ff8bd32f1986dfd8bfbf,ellipse_10,slacs2238-0754,                    2,       True
+72fe00017fad77581b0af5b480d2e38d,     setup,slacs2238-0754,                   12,       True
+31e31e332f10faa61fb1ec26ef12e030, ellipse_5,slacs2238-0754,                    2,       True
+cb6043c8f6be022e48e1a0491ad204e6, ellipse_2,slacs2238-0754,                    2,       True
+cdda41c752f4a45326609c1209bb7df5, ellipse_3,slacs2238-0754,                    2,       True
+8fd9dd28d14bc8f18b421e75bb486f9c, ellipse_4,slacs2238-0754,                    2,       True
+c3b69dd043b4d7447f7e69e1a032f134,ellipse_15,slacs2238-0754,                    2,       True
+2f97c7f23bcff2fa6e2684bb25124519,ellipse_12,slacs2238-0754,                    2,       True
+abd5f1feb5df4d33f05c56a93e4921bf,ellipse_13,slacs2238-0754,                    2,       True
+ee910b9460e7cfe9847c0330cd162ffe,   fit_all,slacs2238-0754,                    1,       True
+56f92827fc97f1f485f4ee2d99923f0b,ellipse_14,slacs2238-0754,                    2,       True
+73173c758aef08125979562e7d969cea, ellipse_8,slacs2238-0754,                    2,       True
+ecfff3a3e5824a8b21ed535b3401a2e5, ellipse_1,slacs2238-0754,                    2,       True
+39348366c4279557d2ac93a3763f361e, ellipse_6,slacs2238-0754,                    2,       True
+5cfcd7f6ce70b83a8bc19b8134f77bb9, ellipse_7,slacs2238-0754,                    2,       True
+f5b5d782f2f658fd309e27af8e9c0882, ellipse_0,slacs2238-0754,                    2,       True
+ef34a3da5a033fa67c7501ebe6657d6b, ellipse_9,slacs2238-0754,                    2,       True
+d588d047ca748d7a4f4354afe1c1c00d,     setup,SDSSJ0029+2544,                   12,       True
+e5051d67c5ea7c2b59dbed3d1b8dde07, ellipse_2,SDSSJ0029+2544,                    2,       True
+a611079072c543e1ec8089492910811c, ellipse_3,SDSSJ0029+2544,                    2,       True
+6f2050f8e451a4ca75ca21cf3c99c93b,   fit_all,SDSSJ0029+2544,                    1,       True
+059a110e8a9d4a65a4de4fa3c5fafcbc, ellipse_1,SDSSJ0029+2544,                    2,       True
+fca53c780ff588a9804497890921a3e5, ellipse_0,SDSSJ0029+2544,                    2,       True
+d5cd153564736d0264ba0c99de144244,     setup,SDSSJ0856+2010,                   12,       True
+b2124be30d6f6b7f0321619808d8bc36, ellipse_2,SDSSJ0856+2010,                    2,       True
+309b14e2cc22e10c6412eaf0c9525c23, ellipse_3,SDSSJ0856+2010,                    2,       True
+54f08af56fb3e012730c046190bbbf43,   fit_all,SDSSJ0856+2010,                    1,       True
+0fc557d76658f68756661e2a7235204f, ellipse_1,SDSSJ0856+2010,                    2,       True
+9d27caa3c3d6b24dcdd2110de226d1b1, ellipse_0,SDSSJ0856+2010,                    2,       True
+3ac30a0f6c65536285e5ca000e154f22,ellipse_18,slacs0936+0913,                    2,       True
+08645b8b87226b7cdf5360b09d517653,ellipse_11,slacs0936+0913,                    2,       True
+916c367dc7fd21cac565267c1edd5c61,ellipse_16,slacs0936+0913,                    2,       True
+3bab9acbaab521952fd30dbe93c938ed,ellipse_17,slacs0936+0913,                    2,       True
+3d15f8c9e2dbcc5f6fb7fb70417e19f3,ellipse_10,slacs0936+0913,                    2,       True
+08ce3ee838636276448a54baa49332ce,     setup,slacs0936+0913,                   12,       True
+43942fe3cc9c519ec7a9aefc4e2c2ff5, ellipse_5,slacs0936+0913,                    2,       True
+f3a669c0de2ee87a34de53aceb068819, ellipse_2,slacs0936+0913,                    2,       True
+f260f3e136b10b763443117d8398c033, ellipse_3,slacs0936+0913,                    2,       True
+c333022d794cf0ce3835143c7a1cd9af, ellipse_4,slacs0936+0913,                    2,       True
+8db6cb1ec1741e4abf83eb810163c84d,ellipse_15,slacs0936+0913,                    2,       True
+db989fe90590ca61bf167486803ab8b2,ellipse_12,slacs0936+0913,                    2,       True
+8ac9fcde9b34de1ffb8a189d1d4f5ec4,ellipse_13,slacs0936+0913,                    2,       True
+57a12e91af7d8498ad7aac43173e6b34,   fit_all,slacs0936+0913,                    1,       True
+f96beaa0451a3253651aa72d331e2302,ellipse_14,slacs0936+0913,                    2,       True
+db397ee26e2bcc2299fb1cccf102e937, ellipse_8,slacs0936+0913,                    2,       True
+a82862a6718b8525fb1a17f44b56b2bd, ellipse_1,slacs0936+0913,                    2,       True
+304bdd5a8aa21bf4edf9faafa5048527, ellipse_6,slacs0936+0913,                    2,       True
+dd4260e99b3f9615d7ad755fb95ea36f, ellipse_7,slacs0936+0913,                    2,       True
+0cc104f75badd5abe8153913e8236417, ellipse_0,slacs0936+0913,                    2,       True
+29560541e86d1ff1fa01e8b6bba27929, ellipse_9,slacs0936+0913,                    2,       True
+0cdadf4a2d20852e5dffc078146025da,ellipse_18,slacs1250+0523,                    2,       True
+d7c90c80e22ab3c20da92cc0a6616c05,ellipse_11,slacs1250+0523,                    2,       True
+3bce593e0874056f7636aff7f28737e6,ellipse_16,slacs1250+0523,                    2,       True
+80ed2731b249990301360a967d423a92,ellipse_17,slacs1250+0523,                    2,       True
+b8ced487471ad3372c46edfdc256e241,ellipse_10,slacs1250+0523,                    2,       True
+0e738259e917538587cb3254e596f3cd,     setup,slacs1250+0523,                   12,       True
+c060aa03835f33abaf8544214aceee90, ellipse_5,slacs1250+0523,                    2,       True
+31d55eece5dc1acaa427e9aa02834421, ellipse_2,slacs1250+0523,                    2,       True
+700891bdc5ef1871f8728d5b7333d3c0, ellipse_3,slacs1250+0523,                    2,       True
+f73b4cbb4245276b99fb03127338fcf5, ellipse_4,slacs1250+0523,                    2,       True
+b2fba938bc7e7b7b564fdec9a1492f35,ellipse_15,slacs1250+0523,                    2,       True
+c2d2f9701ad184494e02f3b7a53b8f6f,ellipse_12,slacs1250+0523,                    2,       True
+c2971c87369ee7ef67a0cf146fc3cc33,ellipse_13,slacs1250+0523,                    2,       True
+d6bad296976bf3f9ceeda67fdd9c1c7a,   fit_all,slacs1250+0523,                    1,       True
+ee64eb51503d15ad1320d22063d7ff08,ellipse_14,slacs1250+0523,                    2,       True
+52aa00ca57f5e9604cb1522991a8b661, ellipse_8,slacs1250+0523,                    2,       True
+bc096f2e55c1d8fa66f17fd794efb6c5, ellipse_1,slacs1250+0523,                    2,       True
+b0323ffd7daf549966f582b21ea294d1, ellipse_6,slacs1250+0523,                    2,       True
+fbb55938e60f1428bcd543e5ac363d90, ellipse_7,slacs1250+0523,                    2,       True
+aaf6562201fd39f5d65abada3a7c835f, ellipse_0,slacs1250+0523,                    2,       True
+25e4ee4dc32fa3cbcc57a71fe72bff9a, ellipse_9,slacs1250+0523,                    2,       True
